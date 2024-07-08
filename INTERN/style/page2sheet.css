@@ -1,0 +1,10 @@
+body{
+background-image: url(https://www.hdwallpapers.in/download/blue_green_lines_feather_abstraction_illustration_soft_simple_background_hd_soft-HD.jpg);
+background-size: cover;
+}
+.box2{
+    border: 2px solid rgb(236, 232, 224);
+    margin: 5% 60% 5% 10%;
+    padding: 6% 6% 6% 6%;
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/square-shape-round-blue-creative-business-simple-powerpoint-background_6821ccf2cb__960_540.jpg);
+}
